@@ -1,6 +1,0 @@
-192.168.1.1 dev enp0s31f6 lladdr f8:e9:03:8c:6a:ca STALE
-10.253.24.1 dev kvnet lladdr 44:45:53:53:01:00 REACHABLE
-192.168.1.2 dev enp0s31f6 lladdr 84:7a:88:0b:84:07 STALE
-192.168.1.1 dev wlp4s0 lladdr f8:e9:03:8c:6a:ca STALE
-fe80::fae9:3ff:fe8c:6aca dev enp0s31f6 lladdr f8:e9:03:8c:6a:ca router STALE
-fe80::fae9:3ff:fe8c:6aca dev wlp4s0 lladdr f8:e9:03:8c:6a:ca router STALE
